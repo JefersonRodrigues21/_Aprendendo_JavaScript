@@ -4,7 +4,7 @@ const primeiroValor = 10;
 const segundoValor = 20;
 
 console.log("primeiroValor + segundoValor:", primeiroValor + segundoValor);
- 
+
 const valorTotal = primeiroValor + segundoValor;
 console.log("valorTotal:", valorTotal);
 
@@ -14,5 +14,8 @@ console.log("terceiroValor:", terceiroValor);
 terceiroValor = 100;
 console.log("terceiroValor final:", terceiroValor);
 
-let comunidade = 'CDC';
-console.log(`Comunidade: ${comunidade}`);
+let comunidade = "Dev Completo";
+console.log("comunidade:", comunidade);
+
+comunidade = "CDC";
+console.log(`comunidade: ${comunidade}`);
