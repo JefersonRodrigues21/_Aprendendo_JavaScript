@@ -1,4 +1,4 @@
-const nome = "Bia";
+/* const nome = "Bia";
 const idade = 24;
 let temCabeloCurto = true;
 console.log("Bia tem cabelo curto? ", temCabeloCurto);
@@ -25,4 +25,4 @@ console.log("Qual o carro da Bia?", carro);
 console.log("2 anos depois...")
 
 carro = null;
-console.log("Qual o carro da Bia?", carro);
+console.log("Qual o carro da Bia?", carro); */
