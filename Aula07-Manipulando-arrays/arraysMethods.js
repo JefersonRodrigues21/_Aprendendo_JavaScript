@@ -9,4 +9,4 @@ listaDeConvidados.unshift("Beatriz"); //ADICIONA como 1º da array.
 listaDeConvidados.shift(); //REMOVE 1º item da lista.
 
 console.log(listaDeConvidados);
-console.log("Paula está na lista? ", listaDeConvidados.includes("Paula")); // Responde se item está INCLUSO na lista
+console.log("Paula está na lista? ", listaDeConvidados.includes("Paula")); // Responde se item está INCLUSO na lista.
