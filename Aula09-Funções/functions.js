@@ -14,6 +14,7 @@ imprimir("Olá Mundo!");
 //    return valor1 + valor2;
 //}
 //****************************************************
+
 const valor1 = 2;
 const valor2 = 4;
 const calcularSoma = function(valor1, valor2){
