@@ -11,7 +11,6 @@ if (x){
     const z = 'variavel de bloco'
     console.log("X é: ", x);
     console.log("Z é: ", z);
-    //console.log("A é: ", a);
 }
 
 //Escopo de funcao  
